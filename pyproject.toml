@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "projeto-pratico"
+name = "projeto-streamlit-python311"
 version = "0.1.0"
 description = ""
 authors = ["Marcelino Fernandes"]
